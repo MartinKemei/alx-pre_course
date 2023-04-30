@@ -1,4 +1,6 @@
-1. Repo-session
+## ALX git introductory projects
+
+## 1. Repo-session
 mandatory
 Create a new directory called 0x01-git in your alx-pre_course repo.
 
